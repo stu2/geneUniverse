@@ -1,0 +1,17 @@
+Package: geneUniverse
+Type: Package
+Title: Select control gene-sets
+Version: 0.1
+Date: 2018-12-07
+Author: Stuart Archer
+Maintainer: Who to complain to <stu2@github.com>
+Description: Selects control gene-sets from a global gene-set that most closely match a test gene-set, by some metric.
+License: GPL (>= 2)
+Suggests:
+Imports:
+    ggplot2,
+    gridExtra,
+    MASS,
+    stats
+RoxygenNote: 6.1.1
+Encoding: UTF-8
