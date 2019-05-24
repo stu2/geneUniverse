@@ -38,7 +38,6 @@
 #'                         ngenes=5000,verbose = TRUE, plotRes = TRUE)
 #' 
 #' @author Stuart Archer
-#' @importFrom graphics abline legend lines par plot
 #' @importFrom stats density ks.test median wilcox.test approxfun
 #' @export
 
